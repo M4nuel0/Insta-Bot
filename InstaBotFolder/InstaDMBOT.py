@@ -6,7 +6,7 @@ user_name = str(input("Enter the target username: "))
 total_DMs = int(input("Enter the number of total DMs: "))
 
 #login
-bot.login(username = "pizzii._", password = "pizzi.0", use_cookie = False)
+bot.login(username = "", password = "", use_cookie = False)
 
 #method 1
 #Dm follower of a target user
